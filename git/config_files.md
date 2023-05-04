@@ -20,4 +20,3 @@
             [user] 
                 name = work_user
                 email = work_email
-    
