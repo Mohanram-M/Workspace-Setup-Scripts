@@ -7,6 +7,10 @@
             path = ~/personal/.gitconfig-personal  
             [includeIf "gitdir:~/work/"]
             path = ~/work/.gitconfig-work
+            
+            [credential]
+                helper = store
+
 
 2. Create all the child configs in the specific directorires
     * `cat ~/personal/.gitconfig-personal`
