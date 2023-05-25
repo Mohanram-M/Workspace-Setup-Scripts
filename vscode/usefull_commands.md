@@ -5,7 +5,6 @@
 * ` >Extensions: Disable All Installed Extensions`
 * ` >Extensions: Show Recommended Extensions`
 
-
 # Clean Up 
 ```shell
     sudo apt-get remove code
