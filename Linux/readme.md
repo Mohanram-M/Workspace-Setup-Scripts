@@ -3,6 +3,6 @@
 * Copy the following line to bash.rc
 
   ```shell
-  export $(grep -v '^#' $HOME/dev.env | xargs)
+  export $(envsubst < $HOME/dev.env | grep -v '^#' | xargs)
   export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
   ```
