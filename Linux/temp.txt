@@ -1,0 +1,2 @@
+export JAVA_HOME="${HOME}/java/java17"
+export M2_HOME="${HOME}/java/maven/apache-maven-3.9.2"
