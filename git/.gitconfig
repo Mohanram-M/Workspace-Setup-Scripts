@@ -1,0 +1,9 @@
+[includeIf "gitdir:~/Personal/"]
+  path = ~/Personal/.gitconfig-personal
+[includeIf "gitdir:~/Biointel/"]
+  path = ~/Biointel/.gitconfig-biointel
+[includeIf "gitdir:~/HuntersAndGatherers/"]
+  path = ~/HuntersAndGatherers/.gitconfig-huntersandgatherers
+
+[credential]
+	helper = store
