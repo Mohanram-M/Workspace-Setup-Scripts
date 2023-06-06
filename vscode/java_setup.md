@@ -1,4 +1,8 @@
 
+## BEST IDE
+* Eclipse is the best IDE for Java
+* Before continuing, consider stopping here to eclipse to do effortless java dev
+
 ## PREREQUISITE
 
 * Make sure You download the required JDK version(s).
@@ -61,3 +65,4 @@ ctrl + shift + p
 
 * Sometimes a maven reload is required, if pom has some warnings or errors.
     - click on different options in the maven tab to reload.
+
