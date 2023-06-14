@@ -62,7 +62,12 @@
 ctrl + shift + p
 > java : clean java language server workspace
 ```
-
 * Sometimes a maven reload is required, if pom has some warnings or errors.
     - click on different options in the maven tab to reload.
+  
+## UBUNTU/LINUX TRICK
+
+* First open the project with eclipse , make it working
+* The open it with vs code.
+
 
